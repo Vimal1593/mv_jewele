@@ -28,8 +28,8 @@ services:
       - JWT_SECRET=super_secret_for_dev_only_change_in_prod
       - ADMIN_USER=admin
       - ADMIN_PASS=password123
-      - AWS_ACCESS_KEY_ID=AKIA5PTXXN6XFSUBALUG
-      - AWS_SECRET_ACCESS_KEY=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
+      - AWS_ACCESS_KEY_ID=
+      - AWS_SECRET_ACCESS_KEY=
       - AWS_REGION=ap-south-1
       - AWS_S3_BUCKET=jewelsmv1
       - RAZORPAY_KEY_ID=rzp_test_YOUR_KEY_HERE
